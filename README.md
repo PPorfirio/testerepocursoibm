@@ -1,2 +1,2 @@
 # testerepocursoibm
-Repositório para Cursos
+começando por aqui....
